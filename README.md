@@ -88,7 +88,7 @@ in Emacs 22 it can be enabled temporarily by pressing `C-SPC C-SPC`.
 ## Outline Navigation: ##
 
 picolisp-wiki-mode supports *outline-minor-mode* as well as
-*org-mode-style visibility cycling* for PicoLisp-Wikli-style headers.
+*org-mode-style visibility cycling* for PicoLisp-Wiki-style headers.
 There are two types of visibility cycling: Pressing `S-TAB` cycles
 globally between the table of contents view (headers only), outline
 view (top-level headers only), and the full document view. Pressing
